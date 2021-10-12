@@ -766,7 +766,7 @@ a {
   color: #353535;
 }
 .cid-sLC6MHgaL8 .currentcost {
-  color: #554466;
+  color: #6b6767;
 }
 .cid-sLC6MHgaL8 .card-wrapper {
   border-radius: 4px;
@@ -810,7 +810,7 @@ a {
   color: #353535;
 }
 .cid-sLC6N80r5q .currentcost {
-  color: #232323;
+  color: #6b6767;
 }
 .cid-sLC6N80r5q .card-wrapper {
   border-radius: 4px;
@@ -838,6 +838,14 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-sLC6N80r5q H5 {
+  color: #554466;
+}
+.cid-sLC6N80r5q .mbr-text,
+.cid-sLC6N80r5q .cost,
+.cid-sLC6N80r5q .mbr-section-btn {
+  color: #554466;
+}
 .cid-sLC6Np1bxX {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -848,7 +856,7 @@ a {
   color: #353535;
 }
 .cid-sLC6Np1bxX .currentcost {
-  color: #554466;
+  color: #6b6767;
 }
 .cid-sLC6Np1bxX .card-wrapper {
   border-radius: 4px;
