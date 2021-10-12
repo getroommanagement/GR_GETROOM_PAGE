@@ -907,7 +907,7 @@ a {
 }
 .cid-sLCdst5uUR {
   padding-top: 4rem;
-  padding-bottom: 5rem;
+  padding-bottom: 0rem;
   background-color: #554466;
 }
 .cid-sLCdst5uUR .row-links {
@@ -973,4 +973,10 @@ a {
 }
 .cid-sLCdst5uUR .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-sLCdst5uUR .media-container-row .mbr-text DIV {
+  text-align: center;
+}
+.cid-sLCdst5uUR .media-container-row .mbr-text {
+  color: #fafafa;
 }
